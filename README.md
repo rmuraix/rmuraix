@@ -7,7 +7,7 @@
 [![Tumblr Badge](https://img.shields.io/badge/-Tumblr-35465C?style=flat-square&logo=tumblr&logoColor=white)](https://photos.rmurai.com/)  
 ## Glad to see you here!
 - 📍 Live in Japan.
-- 🏫 Student of the [Tokyo Polytechnic University](https://www.t-kougei.ac.jp/en).  
+- 🏫 Student at the [Tokyo Polytechnic University](https://www.t-kougei.ac.jp/en).  
 - 🌱 I’m currently learning Python, JavaScript and C.  
 &nbsp;  
 
