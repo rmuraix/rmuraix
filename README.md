@@ -8,7 +8,7 @@
 ## Glad to see you here!
 - 📍 Live in Japan.
 - 🏫 Student at [Tokyo Polytechnic University](https://www.t-kougei.ac.jp/en).  
-- 🌱 I’m currently learning Python and C.  
+- 🌱 I’m currently learning Python and C#.  
 &nbsp;  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rmuraix&layout=compact&bg_color=000000&text_color=ffffff&hide=html,css,scss)](https://github.com/anuraghazra/github-readme-stats)
