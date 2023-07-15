@@ -1,11 +1,16 @@
-# 👋 はじめまして、@rmuraixです  
-[![Translate Badge](https://img.shields.io/badge/English-ffffff?style=flat-square&logo=googletranslate&logoColor=black)](/README.md)  
-## Glad to see you here!✨
-- 📍 日本在住の日本人です。
-- 🏫 [東京工芸大学](https://www.t-kougei.ac.jp/)の学生です。  
+# 👋 はじめまして、@rmuraix です
 
-## 統計📊
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rmuraix&theme=dark&langs_count=10&layout=compact&hide=jupyter%20notebook,scss,html,css)  
+[![Translate Badge](https://img.shields.io/badge/English-ffffff?style=flat-square&logo=googletranslate&logoColor=black)](/README.md)
+
+## Glad to see you here!✨
+
+- 📍 日本在住の日本人です。
+- 🏫 [東京工芸大学](https://www.t-kougei.ac.jp/)の学生です。
+
+## 統計 📊
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rmuraix&theme=dark&langs_count=10&layout=compact&hide=jupyter%20notebook,scss,html,css,handlebars)
+
 <details>
 <summary>もう少し詳しく</summary>
 <img src="https://raw.githubusercontent.com/rmuraix/rmuraix/cards/profile-summary-card-output/github_dark/0-profile-details.svg" /><br>

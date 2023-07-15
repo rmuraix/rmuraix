@@ -1,11 +1,16 @@
-# 👋 Hi, I’m @rmuraix  
-[![Translate Badge](https://img.shields.io/badge/日本語-ffffff?style=flat-square&logo=googletranslate&logoColor=black)](/translation/README_JP.md)  
+# 👋 Hi, I’m @rmuraix
+
+[![Translate Badge](https://img.shields.io/badge/日本語-ffffff?style=flat-square&logo=googletranslate&logoColor=black)](/translation/README_JP.md)
+
 ## Glad to see you here!✨
+
 - 📍 Live in Japan.
-- 🏫 Student at [Tokyo Polytechnic University](https://www.t-kougei.ac.jp/en).  
+- 🏫 Student at [Tokyo Polytechnic University](https://www.t-kougei.ac.jp/en).
 
 ## Stats📊
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rmuraix&theme=dark&langs_count=10&layout=compact&hide=jupyter%20notebook,scss,html,css)  
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rmuraix&theme=dark&langs_count=10&layout=compact&hide=jupyter%20notebook,scss,html,css,handlebars)
+
 <details>
 <summary>more details</summary>
 <img src="https://raw.githubusercontent.com/rmuraix/rmuraix/cards/profile-summary-card-output/github_dark/0-profile-details.svg" /><br>
