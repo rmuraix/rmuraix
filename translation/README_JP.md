@@ -1,6 +1,6 @@
 # 👋 はじめまして、@rmuraix です
 
-[![Translate Badge](https://img.shields.io/badge/English-ffffff?style=flat-square&logo=googletranslate&logoColor=black)](/README.md)
+[English](../README.md) | 日本語
 
 ## Glad to see you here!✨
 
