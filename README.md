@@ -8,12 +8,4 @@ English | [日本語](./translation/README_JP.md)
 - 🏫 Student at [Tokyo Polytechnic University](https://www.t-kougei.ac.jp/en).
 
 ## Stats📊
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rmuraix&theme=dark&langs_count=10&layout=compact&hide=jupyter%20notebook,scss,html,css,handlebars)
-
-<details>
-<summary>more details</summary>
-<img src="https://raw.githubusercontent.com/rmuraix/rmuraix/cards/profile-summary-card-output/github_dark/0-profile-details.svg" /><br>
-<img src="https://raw.githubusercontent.com/rmuraix/rmuraix/cards/profile-summary-card-output/github_dark/1-repos-per-language.svg" /><img src="https://raw.githubusercontent.com/rmuraix/rmuraix/cards/profile-summary-card-output/github_dark/2-most-commit-language.svg" /><br>
-<img src="https://raw.githubusercontent.com/rmuraix/rmuraix/cards/profile-summary-card-output/github_dark/3-stats.svg" /><img src="https://raw.githubusercontent.com/rmuraix/rmuraix/cards/profile-summary-card-output/github_dark/4-productive-time.svg" />
-</details>
+![Metrics](https://raw.githubusercontent.com/rmuraix/rmuraix/cards/github-metrics.svg)
