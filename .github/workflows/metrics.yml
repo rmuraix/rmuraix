@@ -15,7 +15,7 @@ jobs:
       - uses: actions/checkout@v4
         with:
           ref: "cards"
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@v3.34
         with:
           # Your GitHub token
           # The following scopes are required:
@@ -29,6 +29,7 @@ jobs:
 
           # Options
           user: rmuraix
+          committer_branch: cards
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Tokyo
