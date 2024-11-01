@@ -29,6 +29,7 @@ jobs:
 
           # Options
           user: rmuraix
+          committer_branch: cards
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Tokyo
